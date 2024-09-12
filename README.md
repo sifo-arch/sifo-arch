@@ -4,7 +4,7 @@
 - 💞️ I’m not available to collaborate on any projects at the moment
 - 📫 How to reach me: seifeddinebouzazoua@gmail.com
 - 😄 Pronouns: Sifo
-- ⚡ Fun fact: Although Python is the most language I use C++ is always in my heart
+- ⚡ Fun fact: Although Python is the most language I use, C++ is always in my heart
 
 <!---
 sifo-arch/sifo-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

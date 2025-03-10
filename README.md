@@ -3,7 +3,6 @@
 - 🌱 I’m currently studying AI in a master's program
 - 💞️ I’m not available to collaborate on any projects at the moment
 - 📫 How to reach me: Seif.Eddine.Bouzazoua@outlook.com
-- 😄 Pronouns: Sifo
 - ⚡ Fun fact: Although Python is the language I use the most, C++ is my favorite.
 
 <!---
